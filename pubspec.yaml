@@ -1,5 +1,5 @@
 name: wikibase_sdk
-description: A reimplementation of 
+description: A reimplementation of the wikibase-sdk JS package
 version: 1.0.0
 repository: https://github.com/lectrician1/wikibase_sdk
 
